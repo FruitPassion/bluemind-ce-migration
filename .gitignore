@@ -1,0 +1,6 @@
+envs/*
+.venv/*
+__pycache__/*
+*.pyc
+static/*.txt
+static/*.csv
